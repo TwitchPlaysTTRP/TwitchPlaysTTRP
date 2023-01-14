@@ -52,6 +52,8 @@ chatbots go on an adventure influenced by Twitch chat.
 ### Build With
 
 - [![Git][git-scm]][git-scm-url]
+- [![Node.js][node-js]][node-js-url]
+- [![NPM][node-package-manager]][node-package-manager-url]
 - [![VSCode][visual-studio-code]][visual-studio-code-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,6 +144,11 @@ This project would not be possible without the work of:
 
 [git-scm]: https://img.shields.io/badge/Git-F1502F?style=for-the-badge
 [git-scm-url]: https://git-scm.com/
+[node-js]: https://img.shields.io/badge/Node%2Ejs-339933?style=for-the-badge
+[node-js-url]: https://nodejs.org/
+[node-package-manager]:
+  https://img.shields.io/badge/NPM-CC3534?style=for-the-badge
+[node-package-manager-url]: https://www.npmjs.com/
 [visual-studio-code]:
   https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge
 [visual-studio-code-url]: https://code.visualstudio.com/

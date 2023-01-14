@@ -1,0 +1,6 @@
+# Artifact directories
+**/coverage
+**/dist
+
+# Dependency directories
+**/node_modules
